@@ -11,3 +11,7 @@ Frontend for booking system
 ### floating action button with animation
 
 ![calendar2](calendar2.png)
+
+## Debug Paint
+
+![calendar3](calendar3.png)
